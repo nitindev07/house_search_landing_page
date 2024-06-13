@@ -6,6 +6,9 @@
   body {
     @apply font-primary bg-gray-200;
   }
+  .btn{
+    @apply px-3 py-2 
+  }
   .dropdown {
     @apply w-full lg:max-w-[296px] cursor-pointer;
   }
